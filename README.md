@@ -6,3 +6,4 @@ Tema hello elementor versi 2.2.2
 #jika ada yang mau menggunakan, silahkan
 Username : admin1
 Password : akubahagia (Eit (b)Kapital Kombinasi)
+Versi php yang digunakan 5.6+
